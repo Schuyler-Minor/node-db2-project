@@ -12,14 +12,14 @@ const cars = [
     vin: "1111111111111",
     make: "toyota",
     model: "corolla",
-    mileage: 215000,
+    mileage: 115000,
     title: "salvage",
   },
   {
     vin: "1111111111111",
     make: "ford",
     model: "focus",
-    mileage: 215000,
+    mileage: 15000,
   },
 ];
 
