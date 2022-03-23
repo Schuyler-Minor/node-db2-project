@@ -15,9 +15,10 @@
     "supertest": "^6.2.2"
   },
   "dependencies": {
+    "express": "^4.17.3",
     "knex": "^0.95.14",
     "sqlite3": "^5.0.2",
-    "express": "^4.17.3"
+    "vin-validator": "^1.0.0"
   },
   "repository": {
     "type": "git",
